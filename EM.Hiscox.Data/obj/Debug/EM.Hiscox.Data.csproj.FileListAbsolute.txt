@@ -1,0 +1,4 @@
+E:\Code\Hiscox\EM.Hiscox\EM.Hiscox.Data\bin\Debug\EM.Hiscox.Data.dll
+E:\Code\Hiscox\EM.Hiscox\EM.Hiscox.Data\bin\Debug\EM.Hiscox.Data.pdb
+E:\Code\Hiscox\EM.Hiscox\EM.Hiscox.Data\obj\Debug\EM.Hiscox.Data.dll
+E:\Code\Hiscox\EM.Hiscox\EM.Hiscox.Data\obj\Debug\EM.Hiscox.Data.pdb

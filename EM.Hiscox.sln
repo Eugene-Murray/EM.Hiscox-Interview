@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EM.Hiscox", "EM.Hiscox\EM.Hiscox.csproj", "{E44FBBC4-C5D7-479A-9E8F-E8517A5D7537}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EM.Hiscox.Tests", "EM.Hiscox.Tests\EM.Hiscox.Tests.csproj", "{37AC6EA2-B80F-41CF-BC97-01FA612A1CEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EM.Hiscox.Data", "EM.Hiscox.Data\EM.Hiscox.Data.csproj", "{57C99F62-1435-4C4E-AE6F-23234D20A6B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E44FBBC4-C5D7-479A-9E8F-E8517A5D7537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E44FBBC4-C5D7-479A-9E8F-E8517A5D7537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E44FBBC4-C5D7-479A-9E8F-E8517A5D7537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E44FBBC4-C5D7-479A-9E8F-E8517A5D7537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37AC6EA2-B80F-41CF-BC97-01FA612A1CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37AC6EA2-B80F-41CF-BC97-01FA612A1CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37AC6EA2-B80F-41CF-BC97-01FA612A1CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37AC6EA2-B80F-41CF-BC97-01FA612A1CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57C99F62-1435-4C4E-AE6F-23234D20A6B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C99F62-1435-4C4E-AE6F-23234D20A6B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C99F62-1435-4C4E-AE6F-23234D20A6B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C99F62-1435-4C4E-AE6F-23234D20A6B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
